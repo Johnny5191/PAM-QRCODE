@@ -1,0 +1,30 @@
+body{
+  margin-top: 3.5vh;
+}
+h2{
+color: black;
+justify-content: space-around;
+text-align: center;
+padding-bottom: 1vh;
+}
+#camera, #codigo, #conexao{
+  font-weight: bold;
+  height: 10vh;
+ font-size: 15pt;
+background: rgb(0,117,140);
+background: linear-gradient(199deg, rgba(0,117,140,1) 17%, rgba(60,199,180,1) 50%, rgba(0,28,73,1) 88%);
+border: rgb(131,58,180);
+  color: white;
+}
+.imagem{
+  height: 200px;
+  width: 100%;
+  border: 8px solid rgba(60,199,180,1);
+}
+.texto{
+  color: orange;
+}
+#texto{
+  color: orange;
+}
+
